@@ -8,7 +8,12 @@ VPN client, testing version.
 
 ## Changelogs
 
-v1.0 (Last Version)
+v1.1 (Last Version)
+- New host testing.
+- New styles.
+- Fix minors.
+
+v1.0
 - .NET Framework 4.7.1.
 - Style MaterialSkin.
 - Auto code region.
