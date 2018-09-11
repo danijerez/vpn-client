@@ -8,10 +8,10 @@ VPN client, testing version.
 
 ## Changelogs
 
-v1.0 (Last Verstion)
+v1.0 (Last Version)
 - .NET Framework 4.7.1.
-- style MaterialSkin.
-- auto code region.
-- auto ip public detect.
+- Style MaterialSkin.
+- Auto code region.
+- Auto ip public detect.
 
-> thanks to the whole community of imperivm for the support.
+> Thanks to the whole community of Imperivm for the support.
