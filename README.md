@@ -8,7 +8,12 @@ VPN client, testing version.
 
 ## Changelogs
 
-v1.1 (Last Version)
+v1.2 (Last Version)
+- Edit config activate.
+- Fix minors.
+- Message status.
+
+v1.1 
 - New host testing.
 - New styles.
 - Fix minors.
