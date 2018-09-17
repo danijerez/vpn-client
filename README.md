@@ -15,6 +15,9 @@ VPN client testing version pptp server Imperivm III HD Steam.
 - (7) credentials
 - (8) social networks
 
+## ¿Como Funciona? 
+Lo primero de todo descarga el programa, encontraras un enlace arriba de "Clone or download", descomprímelo en tu directorio favorito y ejecuta "vpn.exe", te debería salir algo parecido a la imagen de arriba. Si pulsas en el botón de encendido (1) te conectaras al servidor vpn pptp (gracias a Jordi por conseguirlo) y tras unos segundos, si todo se pone en verde (4)(1) estarás conectado. Podrías notas que tu ip publica (3) ha cambiado a 107.191.47.246 y ahora tienes una bandera francesa, es normal. Ya puedes jugar Imperivm III online, crear y unirte a partidas. Recuerda quitar todo programa que consuma datos (torrent, emule, videos...) y que tu ping (6) este en de 0 a 60 para que no sufras lag en las partidas. Cuando no juegues recuerda cerrar el programa. ¡No te olvides de agradecer que es gratis!
+
 ## Changelogs
 
 v1.3 (Last Version)
