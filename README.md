@@ -21,9 +21,17 @@ First of all download the program, you will find a link above "Clone or download
 ## ¿Como Funciona? 
 Lo primero de todo descarga el programa, encontraras un enlace arriba de "Clone or download", descomprímelo en tu directorio favorito y ejecuta "vpn.exe", te debería salir algo parecido a la imagen de arriba. Si pulsas en el botón de encendido (1) te conectaras al servidor vpn pptp (gracias a Jordi por conseguirlo) y tras unos segundos, si todo se pone en verde (4)(1) estarás conectado. Podras notas que tu ip publica (3) ha cambiado a 107.191.47.246 y ahora tienes una bandera francesa, es normal. Ya puedes jugar Imperivm III online, crear y unirte a partidas. Recuerda quitar todo programa que consuma datos (torrent, emule, videos...) y que tu ping (6) este en de 0 a 60 para que no sufras lag en las partidas. Cuando no juegues recuerda cerrar el programa. ¡No te olvides de agradecer que es gratis!
 
+## Come funziona?
+Prima di tutto scarica il programma, troverai un link sopra "Clone o download", decomprimilo nella tua directory preferita ed esegui "vpn.exe", dovresti lasciare qualcosa di simile all'immagine sopra. Se fai clic sul pulsante di accensione (1) ti connetteresti al server vpn pptp (grazie a Jordi per averlo ottenuto) e dopo alcuni secondi, se tutto diventa verde (4) (1) sarai connesso. Noterai che il tuo IP pubblicato (3) è cambiato in 107.191.47.246 e ora hai una bandiera francese, è normale. Ora puoi giocare a Imperivm III online, creare e partecipare ai giochi. Ricorda di rimuovere qualsiasi programma che consumi dati (torrent, emule, video ...) e che il tuo ping (6) sia compreso tra 0 e 60, in modo da non subire ritardi nei giochi. Quando non giochi ricorda di chiudere il programma. Non dimenticare di ringraziarti perché è gratis!
+
 ## Changelogs
 
-v1.3 (Last Version)
+v1.4 (Last Version)
+- add Info
+- Fix minors
+- Change icons.
+
+v1.3 
 - Ping status.
 - Fix minors.
 - Simple style.
