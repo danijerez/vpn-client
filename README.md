@@ -25,28 +25,21 @@ Lo primero de todo descarga el programa, encontraras un enlace arriba de "Clone 
 Prima di tutto scarica il programma, troverai un link sopra "Clone o download", decomprimilo nella tua directory preferita ed esegui "vpn.exe", dovresti lasciare qualcosa di simile all'immagine sopra. Se fai clic sul pulsante di accensione (1) ti connetteresti al server vpn pptp (grazie a Jordi per averlo ottenuto) e dopo alcuni secondi, se tutto diventa verde (4) (1) sarai connesso. Noterai che il tuo IP pubblicato (3) è cambiato in 107.191.47.246 e ora hai una bandiera francese, è normale. Ora puoi giocare a Imperivm III online, creare e partecipare ai giochi. Ricorda di rimuovere qualsiasi programma che consumi dati (torrent, emule, video ...) e che il tuo ping (6) sia compreso tra 0 e 60, in modo da non subire ritardi nei giochi. Quando non giochi ricorda di chiudere il programma. Non dimenticare di ringraziarti perché è gratis!
 
 ## Changelogs
+v1.4b (Last Version)
+- Fast conexion PPTP.
+- Orthographic errors.
+- Fix minors.
 
-v1.4 (Last Version)
-- add Info
-- Fix minors
+(Old versions) 
+- Add Info.
 - Change icons.
-
-v1.3 
 - Ping status.
-- Fix minors.
 - Simple style.
-
-v1.2
 - Edit config activate.
-- Fix minors.
 - Message status.
-
-v1.1 
 - New host testing.
 - New styles.
 - Fix minors.
-
-v1.0
 - .NET Framework 4.7.1.
 - Style MaterialSkin.
 - Auto code region.
