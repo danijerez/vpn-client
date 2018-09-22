@@ -17,4 +17,4 @@ v1.4c (Last Version)
 - Low ping to play without lag.
 - You do not need to register.
 
-> Remember that a test program, any incidence comunicamela;)
+> Remember that a test program, any incident, tell me about it ;)
