@@ -11,12 +11,13 @@ VPN client testing version PPTP server Imperivm III HD Steam.
 ![N|Solid](https://i.imgur.com/Ol7coic.png) 
 
 ## ¿Why use?
-v1.4d (Last Version)
+v1.4e (Last Version)
 - Fast conexion PTPP Server.
 - Simple and intuitive style.
 - Simple Active/Deactive Firewall.
 - No need to open ports.
 - Low ping to play without lag.
 - You do not need to register.
+- Don't forget to press the snake.
 
 > Remember that a test program, any incident, tell me about it ;)
