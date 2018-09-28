@@ -20,4 +20,6 @@ v1.4e (Last Version)
 - You do not need to register.
 - Don't forget to press the snake.
 
+[![N|Solid](https://i.imgur.com/EOlujXW.png)](https://twitter.com/RattlesMake) 
+
 > Remember that a test program, any incident, tell me about it ;)
