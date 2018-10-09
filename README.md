@@ -10,7 +10,7 @@ VPN client testing version PPTP server Imperivm III HD Steam. Server by Jordi Ge
 
 ![N|Solid](https://i.imgur.com/1FbMOVD.png) 
 
-![N|Solid](https://i.imgur.com/IPKajzo.png) 
+![N|Solid](https://i.imgur.com/PNdUR8U.png) 
 
 ## ¿Why use?
 v1.5h (Last Version)
