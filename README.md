@@ -1,21 +1,17 @@
 # VPN-Client
 
-img[src$="centerme"] {
-  display:block;
-  margin: 0 auto;
-}
 
-![N|Solid](https://i.imgur.com/D75FFJI.png?style=centerme)  
+![N|Solid](https://i.imgur.com/D75FFJI.png)  
 
 VPN client testing version PPTP server Imperivm III HD Steam. Server by Jordi Gellida Fontela.
 
-[![N|Solid](https://i.imgur.com/ZIKPTi2.png)](https://discord.gg/RErjBq8?style=centerme)  [![N|Solid](https://i.imgur.com/hBSJB6X.png?style=centerme)](https://github.com/fabiomarigo7/imperivm-steam?style=centerme) [![N|Solid](https://i.imgur.com/DOMgrz2.png)](https://twitter.com/d4nijerez)
+[![N|Solid](https://i.imgur.com/ZIKPTi2.png)](https://discord.gg/RErjBq8)  [![N|Solid](https://i.imgur.com/hBSJB6X.png)](https://github.com/fabiomarigo7/imperivm-steam?style=centerme) [![N|Solid](https://i.imgur.com/DOMgrz2.png)](https://twitter.com/d4nijerez)
 
-![N|Solid](https://i.imgur.com/ijWU3BA.png?style=centerme) 
+![N|Solid](https://i.imgur.com/ijWU3BA.png) 
 
-![N|Solid](https://i.imgur.com/6ZghovX.png?style=centerme) 
+![N|Solid](https://i.imgur.com/6ZghovX.png) 
 
-![N|Solid](https://i.imgur.com/DnW58Kq.png?style=centerme) 
+![N|Solid](https://i.imgur.com/DnW58Kq.png) 
 
 ## ¿Why use?
 v1.6 (Last Version)
