@@ -7,14 +7,14 @@ VPN client testing version PPTP server Imperivm III HD Steam. Server by Jordi Ge
 
 [![N|Solid](https://i.imgur.com/ZIKPTi2.png)](https://discord.gg/RErjBq8)  [![N|Solid](https://i.imgur.com/hBSJB6X.png)](https://github.com/fabiomarigo7/imperivm-steam?style=centerme) [![N|Solid](https://i.imgur.com/DOMgrz2.png)](https://twitter.com/d4nijerez)
 
-![N|Solid](https://i.imgur.com/ijWU3BA.png) 
+![N|Solid](https://i.imgur.com/OLopZ1w.png) 
 
-![N|Solid](https://i.imgur.com/6ZghovX.png) 
+![N|Solid](https://i.imgur.com/mkSfDAr.png) 
 
-![N|Solid](https://i.imgur.com/DnW58Kq.png) 
+![N|Solid](https://i.imgur.com/xwjaDO6.png) 
 
 ## ¿Why use?
-v1.6 (Last Version)
+v1.7 (Last Version)
 - Chat integrate.
 - Fast conexion PTPP Server.
 - Simple and intuitive style.
