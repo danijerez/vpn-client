@@ -22,7 +22,7 @@ v1.8 (Last Version)
 - No need to open ports.
 - Low ping to play without lag.
 - You do not need to register.
-- New audio notificacions
+- New audio notificacions.
 - Don't forget to press the snake.
 
 [![N|Solid](https://i.imgur.com/EOlujXW.png)](https://twitter.com/RattlesMake) 
